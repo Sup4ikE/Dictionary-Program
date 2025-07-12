@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMfDjNxKk/4=",
+  "success": true,
+  "projectFilePath": "/Users/olegpona/Downloads/C#_EXAM/CHRP_EXAM/CHRP_EXAM.csproj",
+  "expectedPackageFiles": [
+    "/Users/olegpona/.nuget/packages/nlog/5.3.4/nlog.5.3.4.nupkg.sha512",
+    "/Users/olegpona/.nuget/packages/nlog.config/4.7.15/nlog.config.4.7.15.nupkg.sha512",
+    "/Users/olegpona/.nuget/packages/nlog.schema/4.7.15/nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}
